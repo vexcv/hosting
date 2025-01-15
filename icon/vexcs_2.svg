@@ -1,0 +1,55 @@
+<svg class="svg-canvas" viewBox="0 0 800 600" width="1600" height="1200" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!--滤镜-->
+        <defs></defs>
+
+        <!-- 背景 -->
+        <g id="background">
+            
+            
+          </g>
+
+        <!--元素-->
+        
+                <g id="shape_cbmGQc5ziN" ref="shape_cbmGQc5ziN" key="shape_cbmGQc5ziN" mask="">
+                  <g transform="translate(46.511375032989974,7.092697918239992) rotate(0,281.5,288) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter="">
+                    <!--普通元素-->
+                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="563" height="576" viewBox="0 0 563 576" data-ligature="true" data-parent="shape_cbmGQc5ziN"><g data-role="text" data-width="96.015625" data-height="96" transform="translate(233.4921875, 240)"><path d="M80-63.98L80-48.01L16.02-48.01L16.02-31.99L63.98-31.99L63.98-16.02L16.02-16.02L16.02 0L80 0L80 16.02L0 16.02L0-63.98L80-63.98Z" transform="translate(0 77) " fill="#ffffff" stroke="#ffffff" stroke-width="0.133" data-glyph-w="96.015625" data-glyph-h="91.09375" data-glyph-ascender="74.7265625" data-glyph-descender="-16.3671875" data-kerning="0"></path></g></svg>
+                  </g>
+                </g>
+                <g id="shape_Ia7tqHYlRd" ref="shape_Ia7tqHYlRd" key="shape_Ia7tqHYlRd" mask="">
+                  <g transform="translate(-58.46693723351001,7.092697918239992) rotate(0,298.5,288) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter="">
+                    <!--普通元素-->
+                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="597" height="576" viewBox="0 0 597 576" data-ligature="true" data-parent="shape_Ia7tqHYlRd"><g data-role="text" data-width="96.015625" data-height="96" transform="translate(250.4921875, 240)"><path d="M48.01 16.02L31.99 16.02L31.99 0L48.01 0L48.01 16.02ZM0-16.02L0-63.98L16.02-63.98L16.02-16.02L0-16.02ZM63.98-16.02L63.98-63.98L80-63.98L80-16.02L63.98-16.02ZM63.98 0L48.01 0L48.01-16.02L63.98-16.02L63.98 0ZM16.02 0L16.02-16.02L31.99-16.02L31.99 0L16.02 0Z" transform="translate(0 77) " fill="#921eff" stroke="#921eff" stroke-width="0.133" data-glyph-w="96.015625" data-glyph-h="91.09375" data-glyph-ascender="74.7265625" data-glyph-descender="-16.3671875" data-kerning="0"></path></g></svg>
+                  </g>
+                </g>
+                <g id="shape_kYBxUWOkFf" ref="shape_kYBxUWOkFf" key="shape_kYBxUWOkFf" mask="">
+                  <g transform="translate(205.56650446663002,7.092697918239992) rotate(0,298.5,288) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter="">
+                    <!--普通元素-->
+                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="597" height="576" viewBox="0 0 597 576" data-ligature="true" data-parent="shape_kYBxUWOkFf"><g data-role="text" data-width="96.015625" data-height="96" transform="translate(250.4921875, 240)"><path d="M80 0L80 16.02L16.02 16.02L16.02 0L80 0ZM0 0L0-48.01L16.02-48.01L16.02 0L0 0ZM16.02-63.98L80-63.98L80-48.01L16.02-48.01L16.02-63.98Z" transform="translate(0 77) " fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.133" data-glyph-w="96.015625" data-glyph-h="91.09375" data-glyph-ascender="74.7265625" data-glyph-descender="-16.3671875" data-kerning="0"></path></g></svg>
+                  </g>
+                </g>
+                <g id="shape_TAylWMbHzx" ref="shape_TAylWMbHzx" key="shape_TAylWMbHzx" mask="">
+                  <g transform="translate(134.49927757587,7.092697918239992) rotate(0,281.5,288) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter="">
+                    <!--普通元素-->
+                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="563" height="576" viewBox="0 0 563 576" data-ligature="true" data-parent="shape_TAylWMbHzx"><g data-role="text" data-width="96.015625" data-height="96" transform="translate(233.4921875, 240)"><path d="M16.02 16.02L0 16.02L0 0L16.02 0L16.02 16.02ZM0-48.01L0-63.98L16.02-63.98L16.02-48.01L0-48.01ZM63.98-16.02L63.98 0L48.01 0L48.01-16.02L63.98-16.02ZM80 0L80 16.02L63.98 16.02L63.98 0L80 0ZM31.99 0L16.02 0L16.02-16.02L31.99-16.02L31.99 0ZM48.01-48.01L63.98-48.01L63.98-31.99L48.01-31.99L48.01-48.01ZM16.02-31.99L16.02-48.01L31.99-48.01L31.99-31.99L16.02-31.99ZM63.98-63.98L80-63.98L80-48.01L63.98-48.01L63.98-63.98ZM31.99-16.02L31.99-31.99L48.01-31.99L48.01-16.02L31.99-16.02Z" transform="translate(0 77) " fill="#ffffff" stroke="#ffffff" stroke-width="0.133" data-glyph-w="96.015625" data-glyph-h="91.09375" data-glyph-ascender="74.7265625" data-glyph-descender="-16.3671875" data-kerning="0"></path></g></svg>
+                  </g>
+                </g>
+                <g id="shape_7ESzdVk3e9" ref="shape_7ESzdVk3e9" key="shape_7ESzdVk3e9" mask="">
+                  <g transform="translate(307.9383865528,7.092697918239992) rotate(0,284,288) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter="">
+                    <!--普通元素-->
+                    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="568" height="576" viewBox="0 0 568 576" data-ligature="true" data-parent="shape_7ESzdVk3e9"><g data-role="text" data-width="96.015625" data-height="96" transform="translate(235.9921875, 240)"><path d="M80-16.02L80 0L63.98 0L63.98-16.02L80-16.02ZM63.98 16.02L0 16.02L0 0L63.98 0L63.98 16.02ZM63.98-31.99L63.98-16.02L16.02-16.02L16.02-31.99L63.98-31.99ZM16.02-63.98L80-63.98L80-48.01L16.02-48.01L16.02-63.98ZM0-31.99L0-48.01L16.02-48.01L16.02-31.99L0-31.99Z" transform="translate(0 77) " fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.133" data-glyph-w="96.015625" data-glyph-h="91.09375" data-glyph-ascender="74.7265625" data-glyph-descender="-16.3671875" data-kerning="0"></path></g></svg>
+                  </g>
+                </g>
+                <g id="shape_YH6mERxYtZ" ref="shape_YH6mERxYtZ" key="shape_YH6mERxYtZ" mask="">
+                  <g transform="translate(167.69234205573,251.99620669017) rotate(0,8.1994010142479,8.1994010142479) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter="">
+                    <!--普通元素-->
+                    <svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" class="style-removed" preserveAspectRatio="none" data-parent="shape_YH6mERxYtZ"><title>未标题-3</title><rect width="16" height="16" class="radius-elem" x="0" y="0" fill="#921EFF" rx="0" ry="0" stroke-width="0"></rect></svg>
+                  </g>
+                </g>
+                <g id="shape_rBL4d3Ao4v" ref="shape_rBL4d3Ao4v" key="shape_rBL4d3Ao4v" mask="">
+                  <g transform="translate(175.69234205573,347.97803973412) rotate(0,15.78312491203,8.0694812089158) scale(1,1)" style="opacity: 1;mix-blend-mode: undefined;" filter="">
+                    <!--普通元素-->
+                    <svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 16" width="32" height="16" class="style-removed" preserveAspectRatio="none" data-parent="shape_rBL4d3Ao4v"><title>未标题-3</title><rect width="32" height="16" class="radius-elem" x="0" y="0" fill="#ffffff" rx="0" ry="0" stroke-width="0"></rect></svg>
+                  </g>
+                </g>
+      </svg>
